@@ -1,4 +1,4 @@
-# 📊 Suivi et pilotage des retards projets  – Power BI
+# Suivi et pilotage des retards projets  – Power BI
 
 ## 🧩 Contexte
 
@@ -32,3 +32,4 @@ Un tableau de bord automatisé qui :
 Merci de me contacter via [LinkedIn](https://www.linkedin.com/in/viktoryia-meurville-b94565308/)
 
 ## 📸 Aperçu:
+[Suivi_et_visualisation_projets_en_retard](https://github.com/ViktoryiaKM/Suivi_et_pilotage_des_retards_projets_PowerBI/blob/main/Suivi_et_visualisation_projets_en_retard.gif)
