@@ -2,8 +2,12 @@
 
 ## 🧩 Contexte
 
-Projet réalisé dans le cadre de ma formation DataCoach.ca, à partir d’un **jeu de données fictif** fourni via le fichier Excel *"Délais projet"*.  
-💡 Ce projet illustre la transformation d’un suivi manuel sous Excel en un tableau de bord automatisé, visuel et orienté décision.
+Projet réalisé dans le cadre de ma formation DataCoach.ca, à partir d’un **jeu de données fictif** (Excel "Délais projet").
+
+Il répond à une problématique métier fréquente :  
+✨ *Comment aider un manager à repérer rapidement les projets en retard pour mieux prioriser ?*  
+
+Le suivi sous Excel étant souvent lourd et peu lisible, ce projet vise à le remplacer par un outil interactif, visuel et orienté décision.
 
 ## 🎯 Objectif
 
